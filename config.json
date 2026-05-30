@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdync",
+        "uuid": 6163772,
+        "checksum": "dq271a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
